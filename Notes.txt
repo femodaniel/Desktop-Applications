@@ -1,0 +1,13 @@
+There is another folder here named Interswitch_Automation
+Deployed using fcmb test db environment
+the rou charges have been modified
+
+
+The deployed folder file hosting the folder named Interswitch_Automation
+has its own App config pointed to the db for ezekiels machine
+
+connectionString="Data Source=FEMIOLADIPO;Initial Catalog=INTERSWITCH;Integrated Security=True"
+connectionString="Data Source=.\;Initial Catalog=INTERSWITCH;Integrated Security=True"
+
+
+
